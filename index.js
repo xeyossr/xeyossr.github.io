@@ -17,7 +17,7 @@
 		    .catch(error => {
 		    	console.error("There was a problem with the fetch operation:", error);
 		        document.getElementById("bio").textContent = "Yōkoso, watashi no Sōru Sosaeti e.";
-				document.getElementById("pfp").src = "./images/profile.jpg";
+				document.getElementById("pfp").src = "./images/bachira.jpg";
 		    });
 		
     	
